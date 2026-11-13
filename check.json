@@ -1,0 +1,12 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "peak": 3,
+    "overflowDays": [
+      "2026-07-02"
+    ]
+  }
+}
